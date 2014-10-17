@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kpu:home|Door43 (kpu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kpu|d43-kpu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kpu/archive/master.zip|d43-kpu.zip]]
+
+**Recent Changes**
+{{changes>ns = kpu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kpu|Ethnologue data]]
+
